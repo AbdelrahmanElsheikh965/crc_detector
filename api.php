@@ -2,10 +2,10 @@
 
 	// require_once 'DbConnect.php';
 	
-	$servername = "localhost";
-	$username = "root";
-	$password = "";
-	$database = "crc_project";
+	$servername = "cis9cbtgerlk68wl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+	$username = "fj4lrizh8xy9x3dl";
+	$password = "mx326o9uysumkoqb";
+	$database = "kz1d8e68pjm7jhkl";
 	 
 	 
 	//creating a new connection object using mysqli 
