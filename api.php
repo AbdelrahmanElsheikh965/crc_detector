@@ -2,12 +2,6 @@
 
 	// require_once 'DbConnect.php';
 	
-	
-	
-	
-	
-	
-	 
 	//creating a new connection object using mysqli 
 	$conn = new mysqli($servername, $username, $password, $database);
 	 
